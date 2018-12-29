@@ -17,6 +17,7 @@ The history can be viewed as a listview.
 
 Reference:
 
-https://www.tensorflow.org/lite/demo_android
-https://firebase.google.com/
+1) https://www.tensorflow.org/lite/demo_android
+
+2)https://firebase.google.com/
 
