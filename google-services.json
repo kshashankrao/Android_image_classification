@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "599268230552",
+    "firebase_url": "https://image-classifier-97f80.firebaseio.com",
+    "project_id": "image-classifier-97f80",
+    "storage_bucket": "image-classifier-97f80.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:599268230552:android:7bde7db5dbf5af7f",
+        "android_client_info": {
+          "package_name": "android.example.com.tflitecamerademo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "599268230552-1ise77vsv7m54ev9cprp0nre5snrho5j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD3e7hJHonQF6B9h9ZraQGF-zy5nc62yUk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

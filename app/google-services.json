@@ -1,0 +1,117 @@
+{
+  "project_info": {
+    "project_number": "332496104383",
+    "firebase_url": "https://fir-3b7b6.firebaseio.com",
+    "project_id": "fir-3b7b6",
+    "storage_bucket": "fir-3b7b6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:332496104383:android:7bde7db5dbf5af7f",
+        "android_client_info": {
+          "package_name": "android.example.com.tflitecamerademo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "332496104383-j1p0v62br84vs75kdmjmjaa2v8joog5d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDm4xFyJhkCE1WinPOERtHJh9_-LLKZLBk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:332496104383:android:43f777b379de9ab3",
+        "android_client_info": {
+          "package_name": "com.example.android.tflitecamerademo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "332496104383-j1p0v62br84vs75kdmjmjaa2v8joog5d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDm4xFyJhkCE1WinPOERtHJh9_-LLKZLBk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:332496104383:android:3d83cb830cd9e07d",
+        "android_client_info": {
+          "package_name": "com.example.saveearth.firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "332496104383-3583m2g4te0rm6umh6chad1kjrpmuood.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.saveearth.firebase",
+            "certificate_hash": "391b384577b9205d1b3f5ffd7fd482c54085603f"
+          }
+        },
+        {
+          "client_id": "332496104383-j1p0v62br84vs75kdmjmjaa2v8joog5d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDm4xFyJhkCE1WinPOERtHJh9_-LLKZLBk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "332496104383-j1p0v62br84vs75kdmjmjaa2v8joog5d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
